@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+            <section name="XYZ_RobotEditor.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false"/>
+        </sectionGroup>
+        <sectionGroup name="applicationSettings" type="System.Configuration.ApplicationSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="XYZ_RobotEditor.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <userSettings>
+        <XYZ_RobotEditor.Properties.Settings>
+            <setting name="DefaultCulture" serializeAs="String">
+                <value>en-US</value>
+            </setting>
+            <setting name="IsVideoGuide" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="DEFAULT_POSE_NAME" serializeAs="String">
+                <value>default</value>
+            </setting>
+            <setting name="RC2200_MODEL" serializeAs="String">
+                <value>RC2200</value>
+            </setting>
+            <setting name="RC2300_MODEL" serializeAs="String">
+                <value>RC2200</value>
+            </setting>
+            <setting name="RCK100_MODEL" serializeAs="String">
+                <value>RCK100</value>
+            </setting>
+        </XYZ_RobotEditor.Properties.Settings>
+    </userSettings>
+<startup><supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5"/></startup><applicationSettings>
+        <XYZ_RobotEditor.Properties.Settings>
+            <setting name="ActionNumber" serializeAs="String">
+                <value>54</value>
+            </setting>
+            <setting name="ControlNumber" serializeAs="String">
+                <value>18</value>
+            </setting>
+            <setting name="RC2200_NAME" serializeAs="String">
+                <value>Bolide Y-01</value>
+            </setting>
+            <setting name="RC2300_NAME" serializeAs="String">
+                <value>Bolide Crawler</value>
+            </setting>
+            <setting name="OTHERS_NAME" serializeAs="String">
+                <value>Others</value>
+            </setting>
+            <setting name="RC2300_AVR_NAME" serializeAs="String">
+                <value>CRAWLER_USER_MOTION.h</value>
+            </setting>
+            <setting name="OTHERS_AVR_NAME" serializeAs="String">
+                <value>OTHERS_USER_MOTION.h</value>
+            </setting>
+            <setting name="RCK100_NAME" serializeAs="String">
+                <value>Robotic Arm</value>
+            </setting>
+            <setting name="RCK100_AVR_NAME" serializeAs="String">
+                <value>RCK100_USER_MOTION.h</value>
+            </setting>
+            <setting name="RC2200_AVR_NAME" serializeAs="String">
+                <value>Y-01_USER_MOTION.h</value>
+            </setting>
+        </XYZ_RobotEditor.Properties.Settings>
+    </applicationSettings>
+</configuration>
