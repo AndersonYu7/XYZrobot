@@ -67,8 +67,16 @@
 ### 透過動作編輯與連續動作編輯抓取物品(test_arm.xyz)
 
 * 動作編輯畫面
+
+<img src="pic/move.jpg" width="720">
+
 * 連續動作編輯畫面
+
+<img src="pic/continue_move.png" width="720">
+
 * 實際運作範例
+
+
 
 
 
