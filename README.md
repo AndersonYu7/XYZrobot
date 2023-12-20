@@ -76,6 +76,11 @@
 
 * 實際運作範例
 
+<img src="pic/test_arm.gif" width="720">
+
+## 其他
+* 軟體說明：RoboticArm_userManual_K100_tw_zh_tw.pdf
+* 硬體說明：RoboticArm_K100_AssemblyManual_tw_zh_tw.pdf
 
 
 
