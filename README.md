@@ -1,4 +1,4 @@
-![image](https://github.com/AndersonYu7/XYZrobot/assets/95768254/061915bb-226f-4b95-b440-a9528d57b210)# XYZRobot
+# XYZRobot
 # 軟體安裝
 
 ## Arduino 1.0.6 免安裝版與環境安裝
@@ -45,6 +45,9 @@ https://github.com/AndersonYu7/XYZrobot/assets/95768254/530b6590-fb8f-4ebc-b517-
 1. 解壓縮 動作編輯器V3_離線版_V3.19.0520.1.zip
 2. 點擊執行setup.exe
 3. 點擊Install安裝動作編輯器
+
+![image](pic/install.png)
+
 
 
 
