@@ -48,7 +48,7 @@
 
 ![image](pic/install.png)
 
-## 動作編輯器操作範例
+## 動作編輯器前置設定
 1. 點擊新專案
 
 <img src="pic/new_project.jpg" width="720">
@@ -57,7 +57,18 @@
 
 ![image](pic/chose_name_and_machine.png)
 
+4. 偏好設定->序列埠設定(選擇自己電腦顯示的序列埠)
 
+![image](pic/USB_COM.png)
+
+5. 設定完成即可動作編輯
+
+## 動作編輯器範例
+### 透過動作編輯與連續動作編輯抓取物品(test_arm.xyz)
+
+* 動作編輯畫面
+* 連續動作編輯畫面
+* 實際運作範例
 
 
 
