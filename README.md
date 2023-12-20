@@ -27,19 +27,19 @@
 
 1. 功能一
 
-https://github.com/AndersonYu7/XYZrobot/assets/95768254/4ea58735-3781-403f-84b7-506545a81e53
+<img src="pic/1.gif" width="500">
 
 2. 功能二
 
-https://github.com/AndersonYu7/XYZrobot/assets/95768254/b5b5d2ca-c3ca-4ae3-a14f-37f83d80e766
+<img src="pic/2.gif" width="500">
 
 3. 功能三
 
-https://github.com/AndersonYu7/XYZrobot/assets/95768254/595807a2-f269-42c3-9bb8-b776a0018eda
+<img src="pic/3.gif" width="500">
 
 4. 功能四
 
-https://github.com/AndersonYu7/XYZrobot/assets/95768254/530b6590-fb8f-4ebc-b517-e89eb1af4439
+<img src="pic/4.gif" width="500">
 
 ## 動作編輯器安裝
 1. 解壓縮 動作編輯器V3_離線版_V3.19.0520.1.zip
