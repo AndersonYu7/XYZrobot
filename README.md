@@ -50,7 +50,12 @@
 
 ## 動作編輯器操作範例
 1. 點擊新專案
-2. 選擇機種與創建名稱
+
+<img src="pic/new_project.jpg" width="720">
+
+3. 選擇機種與創建名稱
+
+![image](pic/chose_name_and_machine.png)
 
 
 
